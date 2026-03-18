@@ -39,6 +39,19 @@
 ![](https://github-readme-stats.vercel.app/api?username=giradabhanuprasad&theme=tokyonight&hide_border=false&show_icons=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=giradabhanuprasad&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giradabhanuprasad&theme=tokyonight&hide_border=false&layout=compact)
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+I'm+Bhanu+Prasad+👋;AI+%2F+ML+Engineer+in+Making;Building+Emotion-Aware+Systems;Open+to+Internships+2025+🚀)](https://git.io/typing-svg)
+</p>
+
+# 📈 Activity Graph
+[![Bhanu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=giradabhanuprasad&theme=tokyo-night&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# 🗂️ Profile Summary
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giradabhanuprasad&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<p align="center">
+![](https://visitcount.itsvg.in/api?id=giradabhanuprasad&icon=5&color=6)
+</p>
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=giradabhanuprasad&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
