@@ -37,8 +37,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=giradabhanuprasad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=girada-bhanu-prasad&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=girada-bhanu-prasad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=giradabhanuprasad&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=giradabhanuprasad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=giradabhanuprasad&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
