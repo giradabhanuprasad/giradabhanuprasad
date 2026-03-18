@@ -6,7 +6,7 @@
 - 💡 I always strive to improve myself by learning from mistakes and working consistently.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/girada-bhanu-prasad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giradabhanuprasad)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giradabhanuprasad@gmail.com)
 
 # 💻 Tech Stack:
