@@ -39,9 +39,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=giradabhanuprasad&theme=tokyonight&hide_border=false&show_icons=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=giradabhanuprasad&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giradabhanuprasad&theme=tokyonight&hide_border=false&layout=compact)
-# 🐍 Contribution Graph
-![Snake animation](https://github.com/giradabhanuprasad/giradabhanuprasad/blob/output/github-contribution-grid-snake-dark.svg)
+
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=giradabhanuprasad&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
