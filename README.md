@@ -1,3 +1,6 @@
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=I'm+Girada+Bhanuprasad+%F0%9F%91%8B;Aspiring+AI%2FML+Engineer;Data+Analyst;Open+to+Internship+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
+</p>
 # 💫 About Me:
 - 🤖 I am passionate about machine learning and love building real-world AI systems.
 - 💻 I enjoy coding and turning research papers into fully working products.
