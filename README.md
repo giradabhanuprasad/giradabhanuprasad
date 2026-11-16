@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=I'm+Girada+Bhanuprasad+%F0%9F%91%8B;Aspiring+AI%2FML+Engineer;Data+Analyst;Open+to+Internship+2026+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=I'm+Girada+Bhanuprasad+%F0%9F%91%8B;Aspiring+AI%2FML+Engineer;Data+Analyst;%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
